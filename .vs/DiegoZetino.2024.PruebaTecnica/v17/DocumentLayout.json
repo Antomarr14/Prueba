@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD2ABF-4054-461B-B74C-F6D1BAA4E1D0}|DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj|c:\\users\\diego marroquin\\source\\repos\\diegozetino.2024.pruebatecnica\\diegozetino.2024.pruebatecnica\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBD2ABF-4054-461B-B74C-F6D1BAA4E1D0}|DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj|solutionrelative:diegozetino.2024.pruebatecnica\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB4A80F-D29E-4BF6-B48B-5D08E767DD2F}|SysCapanEN\\SysCapanEN.csproj|c:\\users\\diego marroquin\\source\\repos\\diegozetino.2024.pruebatecnica\\syscapanen\\productoen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB4A80F-D29E-4BF6-B48B-5D08E767DD2F}|SysCapanEN\\SysCapanEN.csproj|solutionrelative:syscapanen\\productoen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD2ABF-4054-461B-B74C-F6D1BAA4E1D0}|DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj|c:\\users\\diego marroquin\\source\\repos\\diegozetino.2024.pruebatecnica\\diegozetino.2024.pruebatecnica\\diegozetino.2024.pruebatecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CBD2ABF-4054-461B-B74C-F6D1BAA4E1D0}|DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj|solutionrelative:diegozetino.2024.pruebatecnica\\diegozetino.2024.pruebatecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBD2ABF-4054-461B-B74C-F6D1BAA4E1D0}|DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj|c:\\users\\diego marroquin\\source\\repos\\diegozetino.2024.pruebatecnica\\diegozetino.2024.pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CBD2ABF-4054-461B-B74C-F6D1BAA4E1D0}|DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj|solutionrelative:diegozetino.2024.pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoEN.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\SysCapanEN\\ProductoEN.cs",
+              "RelativeDocumentMoniker": "SysCapanEN\\ProductoEN.cs",
+              "ToolTip": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\SysCapanEN\\ProductoEN.cs",
+              "RelativeToolTip": "SysCapanEN\\ProductoEN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:31:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DiegoZetino.2024.PruebaTecnica\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DiegoZetino.2024.PruebaTecnica\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:24:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiegoZetino.2024.PruebaTecnica",
+              "DocumentMoniker": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj",
+              "RelativeDocumentMoniker": "DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj",
+              "ToolTip": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj",
+              "RelativeToolTip": "DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T21:23:54.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "DiegoZetino.2024.PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diego Marroquin\\source\\repos\\DiegoZetino.2024.PruebaTecnica\\DiegoZetino.2024.PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "DiegoZetino.2024.PruebaTecnica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T21:19:40.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
